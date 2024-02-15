@@ -1,7 +1,7 @@
 
 **SafeConnect Privacy Policy**
 
-**Effective Date**: [INSERT LAST UPDATED DATE]
+**Effective Date**: February 1, 2024
 
 This privacy policy (the “**Policy**”) describes how Parasol Cooperative Foundation (“**Parasol**” or “**we**”) collects, uses and discloses information that we obtain about Customers and Users (“**you**”).
 
@@ -15,7 +15,7 @@ The following capitalized terms shall have the following meanings:
 
             “**App**” means the SafeConnect application operated by Parasol and its third party service providers.
 
-            “**App Terms of Service**” means the terms available at [INSERT LINK].
+            “**App Terms of Service**” means the terms available at [[https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md]](https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md).
 
 “**Customer**” means the business or nonprofit entity making use of the App for purposes of case management.
 
@@ -27,7 +27,7 @@ The following capitalized terms shall have the following meanings:
 
 **Children’s Privacy**
 
-The App is not intended for and we do not allow children under 16 years of age to use the App. We do not knowingly collect information from persons under 16 years of age, and no part of the App is directed to persons under 16 years of age. If you are under 16 years of age, do not use or access the App at any time or in any manner. If we learn that information has been collected through the App from persons under 16 years of age and without verifiable parental consent, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 16 years of age has provided us with information, please alert us at [INSERT EMAIL ADDRESS] to request that we delete the information from our systems.
+The App is not intended for and we do not allow children under 16 years of age to use the App. We do not knowingly collect information from persons under 16 years of age, and no part of the App is directed to persons under 16 years of age. If you are under 16 years of age, do not use or access the App at any time or in any manner. If we learn that information has been collected through the App from persons under 16 years of age and without verifiable parental consent, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 16 years of age has provided us with information, please alert us at contact@parasolcooperative.org to request that we delete the information from our systems.
 
 **The Information We Collect About You**
 
@@ -35,9 +35,9 @@ We collect several types of information from and about users of the App directly
 
 **_Information We Collect Directly From You_** . Depending on the nature of your use of the App, we may collect certain types of information directly from you.
 
-- **_Customer Administrators_**. From Customer personnel accessing the App (including Customer administrators, volunteers and advocates), we may collect the following categories of information: name, phone number, email address, pronouns, language, skills and [INSERT ANY ADDITIONAL INFORMATION].
+- **_Customer Administrators_**. From Customer personnel accessing the App (including Customer administrators, volunteers and advocates), we may collect the following categories of information: name, phone number, email address, pronouns, language, skills and calendar availability.
 
-- **_Users_**. From Users accessing the App, we may collect the following categories of information: name, phone number, gender, number of children, children’s names and ages, medical needs, housing status and [INSERT ANY ADDITIONAL INFORMATION].
+- **_Users_**. From Users accessing the App, we may collect the following categories of information: name, phone number, gender, number of children, children’s names and ages, medical needs, housing status and calendar information.
 
 Such information may be collected in connection with the account registration process, in addition to log-in credential information, such as username, password and security questions.  If you choose to use the App and register an account, you are responsible for keeping your account credentials safe. We highly recommend that you do not share your username, password, or other access details with anyone else. If you believe your account has been compromised, please contact us immediately.
 
@@ -85,7 +85,7 @@ Except as noted above, we will not sell or share your personal information with 
 
 **Our Use of Cookies and Other Tracking Mechanisms**
 
-   [**TO BE DISCUSSED**]
+   
 
 **Data Security and Deletion**
 
@@ -111,4 +111,4 @@ This Policy is current as of the “Last Updated” date set forth above. We may
 
 **Contact Us**
 
-Please contact us with any questions or comments about this Policy, your Personal Information, our use and disclosure practices, your communication preferences or your consent choices by e-mail at [INSERT EMAIL ADDRESS].
+Please contact us with any questions or comments about this Policy, your Personal Information, our use and disclosure practices, your communication preferences or your consent choices by e-mail at contact@parasolcooperative.org.
