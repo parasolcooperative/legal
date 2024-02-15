@@ -1,4 +1,4 @@
-**Contributor License Agreement**
+# Contributor License Agreement
 
 This Contributor License Agreement (the “**Agreement**”), dated as of February 1, 2024 (the “**Effective Date**”), is by and between _____________________, (“**you**”) and The Parasol Cooperative Foundation, a Delaware corporation (“**Parasol**”).
 
