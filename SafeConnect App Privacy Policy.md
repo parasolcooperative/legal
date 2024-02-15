@@ -9,7 +9,7 @@ By downloading and using the App, you agree that your personal information will 
 
 The Policy does not apply to information collected offline or on any other apps or websites operated by Parasol, including websites you may access through the App. If you do not agree with our policies and practices as described in this Policy, do not download, register with or use this App. By downloading, registering with, or using this App, you agree to this Policy. This Policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this App after we revise this Policy means you accept those changes, so please check the Policy periodically for updates.
 
-**Definitions**
+## Definitions
 
 The following capitalized terms shall have the following meanings:
 
@@ -25,11 +25,11 @@ The following capitalized terms shall have the following meanings:
 
 “**User**” means an individual client of Customer using the App.
 
-**Children’s Privacy**
+## Children’s Privacy
 
 The App is not intended for and we do not allow children under 16 years of age to use the App. We do not knowingly collect information from persons under 16 years of age, and no part of the App is directed to persons under 16 years of age. If you are under 16 years of age, do not use or access the App at any time or in any manner. If we learn that information has been collected through the App from persons under 16 years of age and without verifiable parental consent, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 16 years of age has provided us with information, please alert us at contact@parasolcooperative.org to request that we delete the information from our systems.
 
-**The Information We Collect About You**
+## The Information We Collect About You
 
 We collect several types of information from and about users of the App directly from you when you provide it to us or third parties authorized to share such information with us, as well as automatically through your use of the App. When you use the App, we may collect or you may provide us with information, including Personal Information. “**Personal Information**” means information by which you may be personally identified, including your name, e-mail address, mailing address, mobile phone number, age, gender, demographic, date of birth, as well as additional sensitive information: (i) related to your family and relationship history to assist in case management and to properly request appropriate services; and (ii) other personally identifiable information. If you do provide us with Personal Information, we will store and use that information in accordance with this Privacy Policy.
 
@@ -83,11 +83,11 @@ We may share your information, including Personal Information, as follows:
 
 Except as noted above, we will not sell or share your personal information with third parties without your consent.
 
-**Our Use of Cookies and Other Tracking Mechanisms**
+## Our Use of Cookies and Other Tracking Mechanisms
 
    
 
-**Data Security and Deletion**
+## Data Security and Deletion
 
 We have implemented measures designed to protect your Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction; however, no security measures are perfect or impenetrable, so we cannot ensure or warrant the security of any information you transmit to us through the App, and you do so at your own risk.
 
@@ -97,18 +97,18 @@ We retain information as long as it is reasonably necessary and relevant for our
 
 You should take steps to protect against unauthorized access to your account by, among other things, providing a robust password to access your mobile phone, signing off after using your phone, choosing a robust password for the App that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-**Location of Personal Information**
+## Location of Personal Information
 
 The App is offered from and hosted in the United States. We store any personal information we collect in the United States.  If you access the App from outside the United States, you agree to the transfer of information to the United States, which may have less protections for your personal information than your jurisdiction of residence.
 
-**Limitation of Liability**
+## Limitation of Liability
 
 By accessing the App and/or providing us with Personal Information and other data, you expressly and unconditionally release and hold us harmless from any and all liability for any injuries, loss, or damage of any kind arising from or in connection with the use and/or misuse of such information.  In addition, while we take efforts to ensure the proper and appropriate use of data by our service providers that may receive your information from us, we are not responsible for any injuries, loss, or damage of any kind arising from or in connection with the use and/or misuse of your information caused by those service providers.
 
-**Changes to Our Privacy Policy**
+## Changes to Our Privacy Policy
 
 This Policy is current as of the “Last Updated” date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. If we make any changes to this Policy that materially affect our practices with regard to the Personal Information we have previously collected from you, we may notify you through a notice on the App or another notification method. You are responsible for periodically reviewing this Policy to check for any changes.
 
-**Contact Us**
+## Contact Us
 
 Please contact us with any questions or comments about this Policy, your Personal Information, our use and disclosure practices, your communication preferences or your consent choices by e-mail at contact@parasolcooperative.org.
