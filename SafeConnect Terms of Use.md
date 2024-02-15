@@ -1,4 +1,4 @@
-# SAFECONNECT APPLICATION TERMS OF USE
+# SafeConnect Application Terms of Use
 
 **Last Modified: January 23, 2024**
 
