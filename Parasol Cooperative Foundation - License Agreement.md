@@ -1,6 +1,6 @@
 **Contributor License Agreement**
 
-This Contributor License Agreement (the “**Agreement**”), dated as of ___________ (the “**Effective Date**”), is by and between _____________________, (“**you**”) and The Parasol Cooperative Foundation, a Delaware corporation (“**Parasol**”).
+This Contributor License Agreement (the “**Agreement**”), dated as of February 1, 2024 (the “**Effective Date**”), is by and between _____________________, (“**you**”) and The Parasol Cooperative Foundation, a Delaware corporation (“**Parasol**”).
 
 WHEREAS, Parasol provides access to its software-as-a-service offerings to its customers (the “**Services**”);
 
@@ -38,26 +38,10 @@ e.               **Governing Law**. This Agreement is governed by 
 
 f.               **Assignment**. You may not assign or transfer any of your rights or delegate any of your obligations hereunder, in each case whether voluntarily, involuntarily, by operation of law or otherwise, without the prior written consent of Parasol. Parasol may assign or transfer this Agreement or any of its rights hereunder without your prior written consent. This Agreement is binding upon and inures to the benefit of the parties hereto and their respective permitted successors and assigns.
 
-g.              **Third-Party Original Creations**. Should you wish to submit work that is not your original creation, you may submit it to Parasol separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as “Su_bmitted on behalf of a third-party: [named here]_”.
+g.              **Third-Party Original Creations**. Should you wish to submit work that is not your original creation, you may submit it to Parasol separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as “Submitted on behalf of a third-party: [named here]_”.
 
 h.              **Changes in Material Fact**. You agree to notify Parasol in writing of any facts or circumstances of which you become aware that would make your representations inaccurate in any respect. Such communications must be sent to Parasol at the address identified in the signature page hereto.
 
 i.               **Counterparts**. This Agreement may be executed in counterparts, each of which is deemed an original, but all of which together are deemed to be one and the same agreement.
 
-[_Signature Page Follows_]
 
-  
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
-
-**THE PARASOL COOPERATIVE FOUNDATION**   
-
-By_____________________                                                                            
-
-Name:                                                                                                             
-
-Title:                                                                           
-
-By_____________________
-
-Name: _________________
