@@ -13,17 +13,17 @@ The Policy does not apply to information collected offline or on any other apps 
 
 The following capitalized terms shall have the following meanings:
 
-            “**App**” means the SafeConnect application operated by Parasol and its third party service providers.
+- “**App**” means the SafeConnect application operated by Parasol and its third party service providers.
 
-            “**App Terms of Service**” means the terms available at [[https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md]](https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md).
+- “**App Terms of Service**” means the terms available at [[https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md]](https://github.com/parasolcooperative/legal/blob/main/Parasol%20Cooperative%20Foundation%20-%20License%20Agreement.md).
 
-“**Customer**” means the business or nonprofit entity making use of the App for purposes of case management.
+- “**Customer**” means the business or nonprofit entity making use of the App for purposes of case management.
 
-            “**Data Processing Agreement**” means the data processing agreement entered into between Parasol and Customer pursuant to the Subscription Agreement.
+- “**Data Processing Agreement**” means the data processing agreement entered into between Parasol and Customer pursuant to the Subscription Agreement.
 
-            “**Subscription Agreement**” means the subscription agreement entered into between Parasol and Customer pursuant to which the Customer obtains permission to use and access to the App. 
+- “**Subscription Agreement**” means the subscription agreement entered into between Parasol and Customer pursuant to which the Customer obtains permission to use and access to the App. 
 
-“**User**” means an individual client of Customer using the App.
+- “**User**” means an individual client of Customer using the App.
 
 ## Children’s Privacy
 
