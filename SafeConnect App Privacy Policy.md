@@ -1,5 +1,5 @@
 
-**SafeConnect Privacy Policy**
+# SafeConnect Privacy Policy
 
 **Effective Date**: February 1, 2024
 
