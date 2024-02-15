@@ -2,7 +2,7 @@
 
 # Parasol Cooperative Foundation Privacy Policy
 
-Last Updated: February 1, 2024
+**Last Updated: February 1, 2024**
 
 This privacy policy (“**Privacy Policy**”) applies to your access and use of the website made available by Parasol Cooperative Foundation (“**Parasol**”), located at parasolcooperative.org and any of its subdomains and services, tools and features offered through such website (collectively, the “**Site**”).
 
