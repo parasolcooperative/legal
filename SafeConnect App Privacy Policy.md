@@ -5,7 +5,7 @@
 
 This privacy policy (the “**Policy**”) describes how Parasol Cooperative Foundation (“**Parasol**” or “**we**”) collects, uses and discloses information that we obtain about Customers and Users (“**you**”).
 
-By downloading and using the App, you agree that your personal information will be handled as described in this Policy. Your use of our App is subject to this Policy, the App Terms of Service and any Subscription Agreement or Data Processing Agreement, entered into between you and Parasol, as applicable.
+By downloading and using the App, you agree that your personal information will be handled as described in this Policy. Your use of our App is subject to this Policy, the [App Terms of Service](https://github.com/parasolcooperative/legal/blob/main/SafeConnect%20Terms%20of%20Use.md) and any Subscription Agreement or Data Processing Agreement, entered into between you and Parasol, as applicable.
 
 The Policy does not apply to information collected offline or on any other apps or websites operated by Parasol, including websites you may access through the App. If you do not agree with our policies and practices as described in this Policy, do not download, register with or use this App. By downloading, registering with, or using this App, you agree to this Policy. This Policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this App after we revise this Policy means you accept those changes, so please check the Policy periodically for updates.
 
