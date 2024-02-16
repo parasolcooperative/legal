@@ -169,7 +169,7 @@ Each party shall pay arbitration fees in accordance with the AAA Rules. Regardle
 
 If this arbitration provision is invalidated in whole or in part, the parties agree that the exclusive jurisdiction and venue described in this section shall govern any claim in court arising out of or related to the Terms.
 
-OPT-OUT OF ARBITRATION: You may opt out of the binding arbitration described in this section by sending Parasol written notice of your desire to do so by email at contact@parasolcooperative.org or regular mail at Attn: Parasol Cooperative Foundation, [INSERT ADDRESS] within thirty (30) days following the date you first use our Services or App, whichever occurs first (such notice, an “**Arbitration Opt-out Notice**”). If you don’t provide Parasol with an Arbitration Opt-out Notice within the thirty (30) day period, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth above.
+OPT-OUT OF ARBITRATION: You may opt out of the binding arbitration described in this section by sending Parasol written notice of your desire to do so by email at contact@parasolcooperative.org or regular mail at Attn: Parasol Cooperative Foundation, 601 US 206, Suite 26-311, Hillsborough, NJ 08844 within thirty (30) days following the date you first use our Services or App, whichever occurs first (such notice, an “**Arbitration Opt-out Notice**”). If you don’t provide Parasol with an Arbitration Opt-out Notice within the thirty (30) day period, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except as expressly set forth above.
 
 ## 18. Mass Action Waiver
 
