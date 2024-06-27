@@ -85,7 +85,10 @@ Except as noted above, we will not sell or share your personal information with 
 
 ## Our Use of Cookies and Other Tracking Mechanisms
 
-   
+Cookies are maintained only for purposes of application session management within SafeConnect. In addition, we use [Google Analytics Privacy Terms](https://policies.google.com/technologies/partner-sites) and [Google Analytics Safeguarding your data page](https://support.google.com/analytics/answer/6004245?sjid=15862039215459302503-NA) as a way to track user activity on our SafeConnect and our Organization websites. In addition, we use [Mixpanel](https://mixpanel.com/legal/privacy-policy/) for product development and management purposes which tracks user interactions with features and functionality and it does not track or record personal data of the user or the organization’s clients in [Mixpanel](https://mixpanel.com/legal/privacy-policy/).
+
+Please refer to the [Mixpanel](https://mixpanel.com/legal/privacy-policy/) and [Google Analytics Privacy Terms](https://policies.google.com/technologies/partner-sites) and [Google Analytics Safeguarding your data page](https://support.google.com/analytics/answer/6004245?sjid=15862039215459302503-NA) for additional information. 
+
 
 ## Data Security and Deletion
 
