@@ -45,6 +45,7 @@ Ruth+ is hosted on Amazon Web Services (AWS) infrastructure in the United States
 
 ### Important Limitations
 **Ruth and Ruth+ are not intended to provide legal advice, medical advice, or emergency services.** These are informational tools designed to provide resources and support information. **In case of immediate danger, users should contact emergency services (911) or appropriate crisis hotlines immediately.**
+
 **AI Technology Limitations**: Ruth and Ruth+ utilize artificial intelligence technology powered by large language models (LLMs). While The Parasol Cooperative conducts extensive testing and implements safety measures in designing and deploying these services, the underlying AI technology may generate responses based on outdated, incomplete, or inaccurate training data that is beyond The Parasol Cooperative's direct control.
 
 The Parasol Cooperative makes commercially reasonable efforts to ensure the quality and safety of AI responses through rigorous testing, safety protocols, and ongoing monitoring. However, users acknowledge that AI-generated responses may contain outdated resources, contact information, legal requirements, or safety information that may not reflect current conditions.
