@@ -109,7 +109,7 @@ When you visit our Website, you have the opportunity to engage with Ruth, an AI 
 
 **No Personal Information Requests**: Ruth is designed not to ask for or request any Personal Information from users. If Ruth appears to request personal details, please do not provide such information and contact us at contact at parasolcooperative dot org.
 
-**Data Retention**: Ruth conversation data is retained for 3 days from the time each conversation ends for quality assurance purposes only, after which it is automatically deleted.
+**Data Retention**: Ruth conversation transcripts are kept for 3 days from the time each conversation ends, for quality assurance only, and are then automatically deleted. Our database keeps a rolling backup of this data for 3 days, so a deleted transcript can remain in that backup for up to 3 more days before it is gone. We keep a short record of each conversation for reporting: when it started and ended, how many messages were exchanged, the country if one was shared, and, if a live advocate handoff was opened, how far it got and the general safety concerns identified (for example, a threat to kill). That record does not include the conversation transcript.
 
 ### Ruth+ Services
 
